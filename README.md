@@ -32,7 +32,7 @@ The project is implemented in Python, utilizing the following libraries:
 - Pandas: For data manipulation and display
 - Matplotlib: For visualizing the task execution timeline
 
- ##Key Files
+## Key Files
 
 1. `app.py`: The main Streamlit application that provides the user interface.
 2. `scheduling_algorithms.py`: Contains the implementation of all scheduling algorithms.
