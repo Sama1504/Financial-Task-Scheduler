@@ -1,4 +1,4 @@
-## Project Overview
+## Financial Task Scheduler
 
 This project implements a Financial Task Scheduler that applies various Operating System scheduling algorithms to manage and prioritize financial tasks. It serves as a prototype to demonstrate how OS concepts can be used in Finance and Investment.
 
